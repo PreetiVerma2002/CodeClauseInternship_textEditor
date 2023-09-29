@@ -1,0 +1,55 @@
+body {
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(248, 243, 248);
+}
+
+h1{
+  text-align: center;
+  color: #957dad;
+  font-size: 40px;
+
+}
+
+#textArea {
+  width: 1100px;
+  height: 500px;
+  border: 1px solid #ccc;
+  font-family: monospace;
+  font-size: 16px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+  
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-family: 'Dancing Script', cursive;
+  margin: 10px;
+  border-color: #957dad !important;
+  color: #957dad !important;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  height: 40px;
+  width: 60px;
+  background-color: #f1ebf5;
+}
+
+button:hover{
+   background-color: #ebe1f1;
+}
+
+ button input{
+  width: 30px;
+  height: 20px;
+ }
+
+ 
